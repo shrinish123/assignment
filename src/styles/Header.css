@@ -1,0 +1,10 @@
+.header-container{
+    padding: 10% 0 0 0;
+    font-size: 4rem;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    background-color: #000000;
+    color: #E21143;
+}
